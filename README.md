@@ -2,6 +2,8 @@
 
 ## Welcome!
 
+This site is published [here](https://gilesk.github.io/my-first-website/)
+
 This is a project for the Code Institute course on User-Centric Front-End Development.  
 
 Page Function
@@ -19,3 +21,10 @@ Technical Issues
   - There is a separate .html file for each web page  
   - The page style is controlled by CSS code in a separate .css file
 
+Further Development
+-------------------
+The logos need to be put in uniform sized boxes to overcome the problem that the logos are not the same sizes on so aren't neatly aligned.
+
+
+### Acknowledgements
+Information on techologies provided by the Wikipedia pages that are linked.
