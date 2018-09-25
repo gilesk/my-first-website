@@ -1,26 +1,21 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# My Very First Webpage
 
+## Welcome!
 
-Hi there! Welcome to Cloud9 IDE!
+This is a project for the Code Institute course on User-Centric Front-End Development.  
 
-To get you started, we included a small hello world application.
+Page Function
+-------------
+1. The pages show the different technologies covered in each of the 3 streams with their badges or shields.  
 
-1) Open the hello-world.html file
+2. When these logos are clicked the user is taken to a Wikipedia page describing the technology.
 
-2) Click on the Preview button to open a live preview pane
+Technical Issues
+----------------
+* Languages used
+  - HTML for the basic structure and content
+  - CSS for the page styling
+* File Organisation:  
+  - There is a separate .html file for each web page  
+  - The page style is controlled by CSS code in a separate .css file
 
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
